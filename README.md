@@ -23,6 +23,11 @@ My interpretation of this classic game created in Unity. This project made me wi
    Probably that is why in high school with my friend we were creating our own robot: more here(when I'll manage to write about it).
 * 🍷 Home cider production. Don't be afraid - it's legal 😂.   
    Evereyone likes it so you should try it too. I swear it's better than boughten.
+   
+## Contact me
+* personal e-mail: markowski.adrian525@gmail.com
+* university e-mail: amarkowski@student.agh.edu.pl
+* phone number: 796667735
 
 
 <!--
