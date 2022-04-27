@@ -14,6 +14,9 @@ In free time of studies try to improve my programming skills by developing some 
 ### 📊 https://github.com/AdrMAr5/stock_tracker 
 Simple ETL requesting a currencies exchange rate and saving into a database. This project teached me some basics of data collecting, transforming and saving into database. I used Prefect to schedule flow and complete tasks.
 
+### 🛩️ https://github.com/AdrMAr5/Plane-shooting-game
+Game created using Python Kivy module. First, introductary project in research group made in two-person group with my friend.
+
 ### 🏓 https://github.com/AdrMAr5/Pong 
 My interpretation of this classic game created in Unity. This project made me win a prize for best pong in research group's contest for best pong game 🥇.
 
